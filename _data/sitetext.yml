@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our studio!
-    text: What can we pour for you?
-    button: Tell Me More
+    title: Welcome to our bar!
+    text: What can we pour for you today?
+    button: Find A Drink
     buttonlink: "#services"
 
   services:
