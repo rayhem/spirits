@@ -118,8 +118,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "Alistar Hinterwood"
+        role: "Random NPC"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
