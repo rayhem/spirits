@@ -108,9 +108,9 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://www.linkedin.com/in/ryan-masell-935130164
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+      - name: "Connor Glosser"
+        role: "Chief Mathemagician"
+        image: assets/img/team/connor_500x500.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
